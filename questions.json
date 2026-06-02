@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Rukun artinya dasar. Iman artinya percaya. Rukun iman artinya?",
+    "options": ["Dasar kepercayaan", "Dasar keislaman", "Dasar negara"],
+    "answer": "Dasar kepercayaan"
+  },
+  {
+    "id": 2,
+    "question": "Rukun iman ada enam. Yang termasuk rukun iman yaitu?",
+    "options": ["Iman kepada Malaikat", "Zakat", "Salat"],
+    "answer": "Iman kepada Malaikat"
+  },
+  {
+    "id": 3,
+    "question": "Malaikat diciptakan dari cahaya. Yang bertugas menjaga pintu surga yaitu?",
+    "options": ["Malik", "Ridwan", "Mikail"],
+    "answer": "Ridwan"
+  },
+  {
+    "id": 4,
+    "question": "Allah mengasihi semua makhluk-Nya dengan cara memberikan rezeki. Arti dari Asmaul Husna yang sesuai adalah?",
+    "options": ["Ar-Rahman", "Ar-Rahiim", "Al-Malik"],
+    "answer": "Ar-Rahman"
+  },
+  {
+    "id": 5,
+    "question": "Sebelum belajar hendaknya membaca?",
+    "options": ["Doa", "Koran", "Berita"],
+    "answer": "Doa"
+  },
+  {
+    "id": 6,
+    "question": "Anto selalu berkata apa adanya. Berarti Anto termasuk anak yang?",
+    "options": ["Bohong", "Jujur", "Pemaaf"],
+    "answer": "Jujur"
+  },
+  {
+    "id": 7,
+    "question": "Kitab Zabur diturunkan kepada Nabi?",
+    "options": ["Nabi Daud", "Nabi Muhammad", "Nabi Isa"],
+    "answer": "Nabi Daud"
+  },
+  {
+    "id": 8,
+    "question": "Kitab Taurat diturunkan kepada Nabi?",
+    "options": ["Nabi Musa", "Nabi Muhammad", "Nabi Daud"],
+    "answer": "Nabi Musa"
+  },
+  {
+    "id": 9,
+    "question": "Al-Quran diturunkan kepada Nabi?",
+    "options": ["Nabi Isa", "Nabi Daud", "Nabi Muhammad"],
+    "answer": "Nabi Muhammad"
+  },
+  {
+    "id": 10,
+    "question": "Mencari ilmu itu hukumnya?",
+    "options": ["Wajib", "Sunnah", "Haram"],
+    "answer": "Wajib"
+  },
+  {
+    "id": 11,
+    "question": "Berterima kasih kepada Allah dengan mengucapkan?",
+    "options": ["Terima kasih", "Astagfirullah", "Alhamdulillah"],
+    "answer": "Alhamdulillah"
+  },
+  {
+    "id": 12,
+    "question": "Al-Quddus artinya Allah Maha Suci. Contoh sikap Al-Quddus yaitu?",
+    "options": ["Berkata jujur", "Marah-marah", "Bermalas-malasan"],
+    "answer": "Berkata jujur"
+  },
+  {
+    "id": 13,
+    "question": "Al-Malik artinya?",
+    "options": ["Allah Maha Kuasa", "Allah Maha Suci", "Allah Maha Pencipta"],
+    "answer": "Allah Maha Kuasa"
+  },
+  {
+    "id": 14,
+    "question": "Ar-Rahiim Allah hanya diberikan kepada?",
+    "options": ["Semua makhluk", "Orang beriman", "Orang kafir"],
+    "answer": "Orang beriman"
+  },
+  {
+    "id": 15,
+    "question": "Malaikat yang bertugas mencabut nyawa yaitu?",
+    "options": ["Izrail", "Israfil", "Jibril"],
+    "answer": "Izrail"
+  },
+  {
+    "id": 16,
+    "question": "Malaikat yang bertugas membawa wahyu yaitu?",
+    "options": ["Jibril", "Israfil", "Izrail"],
+    "answer": "Jibril"
+  },
+  {
+    "id": 17,
+    "question": "Malaikat yang bertugas membagikan rezeki yaitu?",
+    "options": ["Jibril", "Mikail", "Izrail"],
+    "answer": "Mikail"
+  },
+  {
+    "id": 18,
+    "question": "Iman kepada Kitab Allah termasuk rukun iman keberapa?",
+    "options": ["Satu", "Dua", "Tiga"],
+    "answer": "Tiga"
+  },
+  {
+    "id": 19,
+    "question": "Iman kepada Rasul-rasul Allah termasuk rukun iman keberapa?",
+    "options": ["Satu", "Empat", "Tiga"],
+    "answer": "Empat"
+  },
+  {
+    "id": 20,
+    "question": "Iman kepada Allah termasuk rukun iman keberapa?",
+    "options": ["Satu", "Dua", "Tiga"],
+    "answer": "Satu"
+  }
+]
